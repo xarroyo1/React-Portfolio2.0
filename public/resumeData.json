@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Xyra",
+    "occupation": "Full Stack Web Developer & Counseling Center Assistant",
+    "description": "Developer | Optimist | Adventurer",
+    "image": "grad.jpg",
+    "bio": "My name is Xyra Arroyo, I'm a Full Stack Web Developer. Currently working at ELCCC as a counselors assistant meanwhile I am always learning something new & in pursuit of applying my tech skills in the workplace.",
+    "contactmessage": "I would love to get to know you and see how I could use my skills to help or work with you!",
+    "email": "xyaguilar77@gmail.com",
+    
+    "address": {
+      
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30303"
+    },
+    "website": "resume2020.pdf",
+    "resumedownload": "resume2020.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ilovejoy77/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/xarroyo1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/xyra.a/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/xarroyo1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are a few of my tech skills and the level of knowledge I have of them (for now) :)",
+    "education": [
+      {
+        "school": "Georgia State University",
+        "degree": "Bachelors in Psychology",
+        "graduated": "April 2019",
+        "description": "With my passion for caring about the mental health of all people, I will then proceed to receive my Masters in Psychology. Then after, my doctorates."
+      },
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Certified Full Stack Web Developer",
+        "graduated": "November 2020",
+        "description": "Graduated with Ambition & Drive to learn more & keep going deeper into what I learned so far with coding. Definitely not done yet."
+      }
+    ],
+    "work": [
+      {
+        "company": "Eagles Landing Christian Counseling Center",
+        "title": "Counselors & Psychologist Assistant",
+        "years": "July 2019 - Present",
+        "description": "Aide the Counselors, Psychologist, Supervisor, & Executive Director with handling new and old client confidential information and files."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Space Voyager",
+        "category": "Become a space voyager with this fun and interactive application!",
+        "image": "sv3.png",
+        "url": "http://space-voyager.herokuapp.com"
+      },
+      {
+        "title": "Eat-Da-Burger",
+        "category": "This app lets you choose burgers from a list to be eaten and shows which burgers have already been eaten!(functionality work in progress)",
+        "image": "burger.jpg",
+        "url": "https://github.com/xarroyo1/Burger_Application"
+      },
+      {
+        "title": "Employee Template",
+        "category": "This application will generate a software engineering team command line template.",
+        "image": "team.jpg",
+        "url": "https://github.com/xarroyo1/Employee-Template"
+      },
+      {
+        "title": "Weather Application",
+        "category": "This weather application includes a search box that allows the user to input a city name in order for them to view the current weather status on that city chosen. (styling work in progress)",
+        "image": "weather.jpg",
+        "url": "https://xarroyo1.github.io/weather-application/"
+      },
+      {
+        "title": "Calendar App",
+        "category": "A simple calendar application where the user is able to apply texts for tasks in each time slot according to what time it is , in real time.(styling work in progress)",
+        "image": "cal.jpg",
+        "url": "https://xarroyo1.github.io/Calendar-Application/"
+      },
+      {
+        "title": "Travel Hub",
+        "category": "This useful application gives you the ability to plan your trip and stay within your budget.",
+        "image": "travel.jpg",
+        "url": "https://travel-planner-gt-project.herokuapp.com/"
+      },
+      {
+        "title": "User Directory",
+        "category": "Allows large business to locate employees through an easy search that provides some demographic information.",
+        "image": "employee.jpg",
+        "url": "https://xarroyo1.github.io/User-Directory/"
+      },
+      {
+        "title": "README Generator",
+        "category": "This README Generator allows developers to create a simple but thorough, quick and easy to use README for their app.",
+        "image": "readme.jpg",
+        "url": "https://github.com/xarroyo1/README-Generator"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Being happy isn't getting what you want, it's wanting what you have.",
+        "user": "Carrie Fisher"
+      },
+      {
+        "text": "It's not about deserve; It's about what you believe. And I believe in Love.",
+        "user": "Wonder Woman"
+      }
+    ]
+  }
+}
